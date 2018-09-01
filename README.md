@@ -16,4 +16,4 @@ Furthermore I want to get into the habit of coding everyday for a certain amount
 
 **Thoughts**: It was really interesting to begin learning a new programming language, up until now I only worked with Java and a little bit of Python.  
 
-**Links to work**: [Different small programs]()
+**Links to work**: [Different small programs](https://github.com/Benzammour/100DaysOfCode/tree/master/day01)
