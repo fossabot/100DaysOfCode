@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/samirbenzammour/Desktop/Git/100DaysOfCode/day02/functionFile.cpp
+iostream
+-
+new.hpp
+/Users/samirbenzammour/Desktop/Git/100DaysOfCode/day02/new.hpp
+
+/Users/samirbenzammour/Desktop/Git/100DaysOfCode/day02/main.cpp
+iostream
+-
+new.hpp
+/Users/samirbenzammour/Desktop/Git/100DaysOfCode/day02/new.hpp
+
+/Users/samirbenzammour/Desktop/Git/100DaysOfCode/day02/new.hpp
+
