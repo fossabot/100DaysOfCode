@@ -18,7 +18,7 @@ Furthermore I want to get into the habit of coding everyday for a certain amount
 
 **Links to work**: [datatypes, iostream, functions](https://github.com/Benzammour/100DaysOfCode/tree/master/day01)
 
-### Day 2: September 1, Saturday
+### Day 2: September 2, Sunday
 
 **Today's Progress**: I learned about structs/classes as well as about linking files across multiple files and CMake.
 
